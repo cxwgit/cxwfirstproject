@@ -21,7 +21,7 @@ public class hellomyfu {
 		  });
 		  thread.start();
 		  System.out.println("main函数执行结束");
-		  System.out.println("测试gitdemo"+"main函数执行结束");
+		  System.out.println("merge"+"测试gitdemomerge"+"main函数执行结束");
 		  
 		}
 	
